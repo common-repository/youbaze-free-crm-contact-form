@@ -1,0 +1,8 @@
+#top [id^="youbaze-"] div[id^="myyoubaze-"] .text_input, [id^="youbaze-"] div[id^="myyoubaze-"] .text_input { width: 100%; border-radius: 2px; display: inline; margin-bottom: 0; min-width: 50px; padding: 13px; }
+#top [id^="youbaze-"] div[id^="myyoubaze-"] .text_input:not(textarea), [id^="youbaze-"] div[id^="myyoubaze-"] .text_input:not(textarea) { max-width: 500px; }
+.youbazewidget .youbaze_error, .youbazewidget .youbaze_success { padding: 10px; margin-bottom: 1.5em; border: 2px #d8000c solid; }
+.youbazewidget .youbaze_error { background-color: #ffbaba; color: #d8000c; }
+.youbazewidget .youbaze_success { border-color: #4f8a10; background-color: #dff2bf; color: #4f8a10; }
+.youbazewidget .youbaze_errorfield { border: 1px #c0392b solid !important; }
+.youbazewidget p { float: left; clear: both; width: 100%; }
+.youbazewidget label { margin-bottom: 7px; }

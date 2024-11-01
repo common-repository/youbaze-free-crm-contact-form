@@ -1,0 +1,6 @@
+#youbazeform table { max-width: 768px; }
+
+@media screen and (min-width: 769px)
+{
+	#youbazeform table input[type="text"] { width: 300px; }
+}
